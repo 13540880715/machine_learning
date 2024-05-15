@@ -18,5 +18,3 @@ coef_:{model.coef_}
 mean_squared_error:{mean_squared_error(y_test,y_pre)}
 r2_score:{r2_score(y_test,y_pre)}
 """)
-
-
